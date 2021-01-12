@@ -48,6 +48,7 @@ La Ley de voltaje de Kirchhoff establece que la suma algebraica de todos los vol
 Antes de percibir mejor qué es la ley de voltaje de Kirchhoff (KVL) vamos a entender primero qué es la caída de tensión a través de un solo elemento como una resistencia.
 
 ---Caida de tension de una resistencia---
+![2](https://user-images.githubusercontent.com/75337022/104261648-ff77eb80-5453-11eb-84af-671804fac1eb.png)
  
 En este caso el flujo de corriente circula a través de la resistencia desde el punto A al punto B, es decir, de terminal positivo a terminal negativo. Por lo tanto, como estamos yendo en la misma dirección que la corriente, habrá una caída de potencial a través de la resistencia igual a 
 – I * R.
