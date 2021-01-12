@@ -48,6 +48,7 @@ La Ley de voltaje de Kirchhoff establece que la suma algebraica de todos los vol
 Antes de percibir mejor qué es la ley de voltaje de Kirchhoff (KVL) vamos a entender primero qué es la caída de tensión a través de un solo elemento como una resistencia.
 
 ---Caida de tension de una resistencia---
+
 ![2](https://user-images.githubusercontent.com/75337022/104261648-ff77eb80-5453-11eb-84af-671804fac1eb.png)
  
 En este caso el flujo de corriente circula a través de la resistencia desde el punto A al punto B, es decir, de terminal positivo a terminal negativo. Por lo tanto, como estamos yendo en la misma dirección que la corriente, habrá una caída de potencial a través de la resistencia igual a 
@@ -59,17 +60,24 @@ La dirección de la corriente alrededor de una malla eléctrica puede ser elegid
 Si la dirección elegida es diferente a la dirección real del flujo de corriente, el resultado seguirá siendo correcto y válido, pero dará lugar a que la respuesta algebraica tenga signo negativo. Para entender esta idea un poco más, veamos un circuito donde aplicar la Ley de voltaje de Kirchhoff en el análisis de mallas.
 
 ---Circuito de una malla---
+
+![3](https://user-images.githubusercontent.com/75337022/104261664-07d02680-5454-11eb-97c5-c0b8175d1e05.png)
+
  
 La Ley de tensión de Kirchhoff establece que la suma algebraica de las diferencias de potencial en cualquier malla debe ser igual a cero.
 Puesto que las dos resistencias, R1 y R2 están conectadas en serie, ambas son parte de la misma malla eléctrica por lo que la misma corriente debe fluir a través de cada resistencia.
 
 Así, según KVL tenemos que:
 
+![4](https://user-images.githubusercontent.com/75337022/104261676-10286180-5454-11eb-8e3e-8050cdf257ba.png)
 
 Teniendo que la intensidad del circuito será:
-	
+
+![5](https://user-images.githubusercontent.com/75337022/104261688-18809c80-5454-11eb-8ae2-5b5d7ca78df1.png)
 	
 Como queremos calcular la caída de tensión en cada resistencia aplicamos la Ley de Ohm:
+
+![6](https://user-images.githubusercontent.com/75337022/104261733-33eba780-5454-11eb-87d5-29b4e30bca53.png)
 	
 	
 Podemos apreciar que la caída de tensión en una resistencia de un circuito con una malla será igual al voltaje de entrada por la resistencia en cuestión entre la suma de todas las resistencias.
@@ -77,9 +85,12 @@ Podemos apreciar que la caída de tensión en una resistencia de un circuito con
 
 ---Material o Equipo Requerido---
 
+![7](https://user-images.githubusercontent.com/75337022/104261747-3c43e280-5454-11eb-8167-6c7ceabdfaa0.png)
+
 
 ---Diagramas---
 
+![8](https://user-images.githubusercontent.com/75337022/104261769-436af080-5454-11eb-8f1c-14c783ac5e86.png)
 
 Procedimiento 
 
@@ -94,7 +105,17 @@ Procedimiento
 
 ---Tabulacion de datos----
 
+![9](https://user-images.githubusercontent.com/75337022/104261784-4cf45880-5454-11eb-96de-c99961f53b78.png
+
+
+---Calculos---
+
+![10](https://user-images.githubusercontent.com/75337022/104261806-5382d000-5454-11eb-8e26-abc1f28c8293.png)
+
 ---Conclusiones---
+
+
+
 
 	
 ---Recomendaciones---
