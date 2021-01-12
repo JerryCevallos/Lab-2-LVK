@@ -121,8 +121,11 @@ Procedimiento
 
 ---Conclusiones---
 
+•	Los valores de corriente y voltaje determinados por la ley de Kirchhoff son muy aproximados a los valores experimentales, con un porcentaje de errores del 20%
 
+•	La segunda ley de Kirchhoff también se cumple: en una malla, la suma algebraica de los voltajes es igual a 0, Con los valores hallados gracias a la simulación la suma resulta en un 0 sin necesidad de mucho calculo
 
+•	Esta simulación es importante para la comprensión de temas futuros y el cálculo preciso de los diferentes circuitos que se presenten, podemos tomar como una forma de simplificar problemas con ejercicios extensos envés de reducir a circuitos pequeños y trabajarlos individualmente podemos usar las leyes y resolver los ejercicios en simples pasos llegando a un sistema de ecuaciones  
 
 	
 ---Recomendaciones---
