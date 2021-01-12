@@ -1,8 +1,6 @@
-# Laboratorio 2 LVK
+# Laboratorio 2 LVK (Analisis de mallas)
 Segunda ley de Kirchhoff donde la suma algebraica de los voltajes es igual a 0
 
-
-Análisis de mallas
 ![1 1](https://user-images.githubusercontent.com/75337022/104261539-c3dd2180-5453-11eb-922e-e9520ccbaf47.png)
 
 
