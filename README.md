@@ -114,7 +114,9 @@ Procedimiento
 
 ![11](https://user-images.githubusercontent.com/75337022/104262470-ab6e0680-5455-11eb-8b0f-87d3d5e90bb1.png)
 
-![12](https://user-images.githubusercontent.com/75337022/104262486-b2951480-5455-11eb-8361-cb5c0e9e4224.png)
+![12](https://user-images.githubusercontent.com/75337022/104266481-b167e580-545d-11eb-8658-5c6c70684fd0.png)
+
+
 
 ![13](https://user-images.githubusercontent.com/75337022/104262498-bb85e600-5455-11eb-9940-1f5a0807a519.png)
 
