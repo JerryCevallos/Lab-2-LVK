@@ -112,6 +112,13 @@ Procedimiento
 
 ![10](https://user-images.githubusercontent.com/75337022/104261806-5382d000-5454-11eb-8e26-abc1f28c8293.png)
 
+![11](https://user-images.githubusercontent.com/75337022/104262470-ab6e0680-5455-11eb-8b0f-87d3d5e90bb1.png)
+
+![12](https://user-images.githubusercontent.com/75337022/104262486-b2951480-5455-11eb-8361-cb5c0e9e4224.png)
+
+![13](https://user-images.githubusercontent.com/75337022/104262498-bb85e600-5455-11eb-9940-1f5a0807a519.png)
+
+
 ---Conclusiones---
 
 
@@ -135,11 +142,21 @@ https://www.youtube.com/watch?v=uaG_GPQxKhg
 
 ---Anexos---
 
+![14](https://user-images.githubusercontent.com/75337022/104262508-c3de2100-5455-11eb-8e6c-be5ae8cde5c2.png)
+
 1.1 Tomamos los materiales para el circuito
 
+![15](https://user-images.githubusercontent.com/75337022/104262533-cd678900-5455-11eb-8ba5-dfa4acdb1aac.png)
+
+
 1.2 Armamos y montamos el circuito en el protoboard
+
+![16](https://user-images.githubusercontent.com/75337022/104262580-e3754980-5455-11eb-9393-fdf697b7ab31.png)
+
  
 1.3 Utilizamos los multímetros para obtener los resultados de amperaje y voltaje
+
+![17](https://user-images.githubusercontent.com/75337022/104262596-ea9c5780-5455-11eb-8f17-da47383eaef5.png)
 
  1.4 Obtenemos los resultados utilizando los amperímetros
 
