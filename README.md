@@ -105,7 +105,7 @@ Procedimiento
 
 ---Tabulacion de datos----
 
-![9](https://user-images.githubusercontent.com/75337022/104261784-4cf45880-5454-11eb-96de-c99961f53b78.png
+![9](https://user-images.githubusercontent.com/75337022/104261784-4cf45880-5454-11eb-96de-c99961f53b78.png)
 
 
 ---Calculos---
